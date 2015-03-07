@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MessageMapper - Yaaf.MessageArchiveManager.IMAP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Matthias Dittrich">
+
+    <script src="https://code.jquery.com/jquery-1.8.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.8.23/jquery-ui.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap-combined.min.css" rel="stylesheet">
+
+    <link type="text/css" rel="stylesheet" href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/content/style.css" />
+    <link type="text/css" rel="stylesheet" href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/content/prism.css" />
+    <script type="text/javascript" src="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/content/tips.js"></script>
+    <script type="text/javascript" src="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/content/prism.js"></script>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="masthead">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="http://fsharp.org">fsharp.org</a></li>
+          <li><a href="http://tpetricek.github.io/FSharp.Formatting/"><img height="16" width="16" src="https://matthid.github.io/Yaaf.AdvancedBuilding/content/img/FSharp.Formatting.png" /> F# Formatting</a></li>
+        </ul>
+        <h3 class="muted"><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/index.html">Yaaf.MessageArchiveManager.IMAP</a></h3>
+      </div>
+      <hr />
+      <div class="row">
+        <div class="span9" id="main">
+          
+
+
+
+<h1>MessageMapper</h1>
+<div class="xmldoc">
+    Defined in Yaaf.MessageArchiveManager.IMAP.dll.
+</div>
+<div class="xmldoc">
+
+ A simple implementation of the IMessageMapper by mapping emails exactly the way google chat does.
+</br></div>
+
+<!-- Render nested types and modules, if there are any -->
+
+  <h3>Functions and values</h3>
+  <table class="table table-bordered member-list">
+    <thead>
+      <tr><td>Function or value</td><td>Description</td></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '67', 67)" onmouseover="showTip(event, '67', 67)">
+            convertChatItemToChatMessage (...)
+          </code>
+          <div class="tip" id="67">
+            <strong>Signature:</strong> archiveOwner:JabberId -&gt; other:JabberId -&gt; chatItem:ChatItem -&gt; ChatMessage<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L41-41" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '68', 68)" onmouseover="showTip(event, '68', 68)">
+            convertChatMessageToChatItem (...)
+          </code>
+          <div class="tip" id="68">
+            <strong>Signature:</strong> archiveOwner:JabberId -&gt; chatMessage:ChatMessage -&gt; ChatItem<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L16-16" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '69', 69)" onmouseover="showTip(event, '69', 69)">
+            convertEmailToCollection parser email
+          </code>
+          <div class="tip" id="69">
+            <strong>Signature:</strong> parser:IChatParser -&gt; email:Email -&gt; ParsedCollection<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L108-108" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+ parse the given Email
+</br>
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '70', 70)" onmouseover="showTip(event, '70', 70)">
+            convertMessageCollectionToEmail (...)
+          </code>
+          <div class="tip" id="70">
+            <strong>Signature:</strong> parser:IChatParser -&gt; owner:JabberId -&gt; col:ParsedCollection -&gt; Email<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L206-206" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '71', 71)" onmouseover="showTip(event, '71', 71)">
+            createMessageMapper owner
+          </code>
+          <div class="tip" id="71">
+            <strong>Signature:</strong> owner:JabberId -&gt; IMessageMapper<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L247-247" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+ The HTML Content of the Message
+ The Text Content of the Message
+</br>
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '72', 72)" onmouseover="showTip(event, '72', 72)">
+            generateHtmlContent owner col
+          </code>
+          <div class="tip" id="72">
+            <strong>Signature:</strong> owner:JabberId -&gt; col:ParsedCollection -&gt; string<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L165-165" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '73', 73)" onmouseover="showTip(event, '73', 73)">
+            getUtc item
+          </code>
+          <div class="tip" id="73">
+            <strong>Signature:</strong> item:ChatItem -&gt; DateTime<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L102-102" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '74', 74)" onmouseover="showTip(event, '74', 74)">
+            noteIdentifier 
+          </code>
+          <div class="tip" id="74">
+            <strong>Signature:</strong> string<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L14-14" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '75', 75)" onmouseover="showTip(event, '75', 75)">
+            toJabberId mailAddress
+          </code>
+          <div class="tip" id="75">
+            <strong>Signature:</strong> mailAddress:MailAddress -&gt; JabberId<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L100-100" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+ The Target of the message
+ The author of the message
+ Set to -1 to tell the parser to not set this attribute
+ Set to -1 to tell the parser to not set this attribute
+ Set to 0 to tell the parser to not set this attribute
+ A unix Timestamp in ms
+ The Chat Message
+ A unix Timestamp in ms
+</br>
+        </td>
+      </tr>
+      <tr>
+        <td class="member-name">
+
+          <code onmouseout="hideTip(event, '76', 76)" onmouseover="showTip(event, '76', 76)">
+            tryConvertEmailToCollection parser email
+          </code>
+          <div class="tip" id="76">
+            <strong>Signature:</strong> parser:IChatParser -&gt; email:Email -&gt; ParsedCollection option<br />
+                      </div>
+        </td>
+        <td class="xmldoc">
+            <a href="https://github.com/matthid//blob/master/src/source/Yaaf.MessageArchiveManager.IMAP/GoogleChat/MessageMapper.fs#L148-148" class="github-link">
+              <img src="../content/img/github.png" class="normal" />
+              <img src="../content/img/github-blue.png" class="hover" />
+            </a>
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+        </div>
+        <div class="span3">
+          <a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/index.html">
+            <img src="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/content/img/logo.png" style="width:140px;height:140px;margin:10px 0px 0px 35px;border-style:none;" />
+          </a>
+
+          <ul class="nav nav-list" id="menu">
+
+            <li class="nav-header">Yaaf.MessageArchiveManager.IMAP</li>
+
+            <li class="divider"></li>
+            <li><a href="https://www.nuget.org/packages/Yaaf.MessageArchiveManager.IMAP/">Get Yaaf.MessageArchiveManager.IMAP package via NuGet</a></li>
+            <li><a href="https://github.com/matthid/Yaaf.MessageArchiveManager.IMAP">Source Code</a></li>
+            <li><a href="https://github.com/matthid//issues">Open bugs and feature requests</a></li>
+            <li><a href="https://github.com/matthid//issues/new">Report Issue or Request Feature</a></li>
+            <li><a href="https://github.com/matthid/Yaaf.MessageArchiveManager.IMAP/blob/develop/LICENSE.md">License (Apache 2)</a></li>
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/Contributing.html">Contributing</a></li>
+            
+            <li class="nav-header">Documentation</li>
+              
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/index.html">Quick Intro</a></li>
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/ReleaseNotes.html">Release Notes</a></li>
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/DevelopReadme.html">Development Intro</a></li>
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/buildConfig.html">An example build configuration</a></li>
+
+            <li class="nav-header">Reference</li>
+              
+            <li><a href="https://matthid.github.io/Yaaf.MessageArchiveManager.IMAP/references/index.html">API Reference</a></li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+      <a href="https://github.com/matthid/Yaaf.MessageArchiveManager.IMAP"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+    </body>
+  </html>
