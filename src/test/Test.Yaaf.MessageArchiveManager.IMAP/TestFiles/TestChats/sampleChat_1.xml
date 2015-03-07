@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- cid seems to be a unique id which is constant for any user within a session -->
+<!-- sequence-no seems to be a number which is incremented for each user -->
+<con:conversation xmlns:con="google:archive:conversation">
+  <message to="kramer.tom@gmail.com" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="1" int:time-stamp="1356193577093" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>ts server hat kein pw oder?</body>
+    <x stamp="20121222T16:26:17" xmlns="jabber:x:delay" />
+    <time ms="1356193577155" xmlns="google:timestamp" />
+  </message>
+  <cli:message to="matthi.d@googlemail.com/reddragon-52DFE6A0" from="kramer.tom@gmail.com" int:cid="862140914362446105" int:sequence-no="1" int:time-stamp="1356193581540" xmlns:cli="jabber:client" xmlns:int="google:internal">
+    <cli:body>xtc</cli:body>
+    <x stamp="20121222T16:26:21" xmlns="jabber:x:delay" />
+    <time ms="1356193581622" xmlns="google:timestamp" />
+  </cli:message>
+  <message to="kramer.tom@gmail.com/AdiumE1473002" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="1" int:time-stamp="1356193614400" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>wtf</body>
+    <x stamp="20121222T16:26:54" xmlns="jabber:x:delay" />
+    <time ms="1356193614462" xmlns="google:timestamp" />
+  </message>
+  <message to="kramer.tom@gmail.com/AdiumE1473002" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="2" int:time-stamp="1356193636057" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>aber des weis dank versus e jeder</body>
+    <x stamp="20121222T16:27:16" xmlns="jabber:x:delay" />
+    <time ms="1356193636130" xmlns="google:timestamp" />
+  </message>
+  <message to="kramer.tom@gmail.com/AdiumE1473002" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="3" int:time-stamp="1356193640055" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>also wozu</body>
+    <x stamp="20121222T16:27:20" xmlns="jabber:x:delay" />
+    <time ms="1356193640117" xmlns="google:timestamp" />
+  </message>
+  <cli:message to="matthi.d@googlemail.com/reddragon-52DFE6A0" from="kramer.tom@gmail.com" int:cid="862140914362446105" int:sequence-no="2" int:time-stamp="1356194471688" xmlns:cli="jabber:client" xmlns:int="google:internal">
+    <cli:body>damit nich aus der serverliste wer findet und dann lauter donks rumlungern</cli:body>
+    <x stamp="20121222T16:41:11" xmlns="jabber:x:delay" />
+    <time ms="1356194471773" xmlns="google:timestamp" />
+  </cli:message>
+  <message to="kramer.tom@gmail.com/AdiumE1473002" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="4" int:time-stamp="1356194497923" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>kk</body>
+    <x stamp="20121222T16:41:37" xmlns="jabber:x:delay" />
+    <time ms="1356194497996" xmlns="google:timestamp" />
+  </message>
+  <cli:message to="matthi.d@googlemail.com/reddragon-52DFE6A0" from="kramer.tom@gmail.com" int:cid="862140914362446105" int:sequence-no="3" int:time-stamp="1356194538628" xmlns:cli="jabber:client" xmlns:int="google:internal">
+    <cli:body>theoretisch hätt ma sonst n problem wenn der server voll mit random bobs is kommt ma selber nimmer drauf zum kicken^^</cli:body>
+    <x stamp="20121222T16:42:18" xmlns="jabber:x:delay" />
+    <time ms="1356194538745" xmlns="google:timestamp" />
+  </cli:message>
+  <cli:message to="matthi.d@googlemail.com/reddragon-52DFE6A0" from="kramer.tom@gmail.com" int:cid="862140914362446105" int:sequence-no="4" int:time-stamp="1356194570574" xmlns:cli="jabber:client" xmlns:int="google:internal">
+    <cli:body>unwahrscheinliches szenario aber pw schadet ja keinem^^</cli:body>
+    <x stamp="20121222T16:42:50" xmlns="jabber:x:delay" />
+    <time ms="1356194570655" xmlns="google:timestamp" />
+  </cli:message>
+  <message to="kramer.tom@gmail.com/AdiumE1473002" from="matthi.d@googlemail.com" int:cid="4170471351924369946" int:sequence-no="5" int:time-stamp="1356194627151" xmlns="jabber:client" xmlns:int="google:internal">
+    <body>doch habs grad jm nicht geglaubt dass er ned draufkommt xD</body>
+    <x stamp="20121222T16:43:47" xmlns="jabber:x:delay" />
+    <time ms="1356194627225" xmlns="google:timestamp" />
+  </message>
+  <cli:message to="matthi.d@googlemail.com/reddragon-52DFE6A0" from="kramer.tom@gmail.com" int:cid="862140914362446105" int:sequence-no="5" int:time-stamp="1356194762428" xmlns:cli="jabber:client" xmlns:int="google:internal">
+    <cli:body>:D</cli:body>
+    <x stamp="20121222T16:46:02" xmlns="jabber:x:delay" />
+    <time ms="1356194762513" xmlns="google:timestamp" />
+  </cli:message>
+</con:conversation>

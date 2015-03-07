@@ -1,0 +1,43 @@
+Return-Path: <matthi.d@googlemail.com>
+X-Original-To: ldapuser@yaaf.no-ip.org
+Delivered-To: ldapuser@yaaf.no-ip.org
+Received: from mail-wi0-f181.google.com (mail-wi0-f181.google.com [209.85.212.181])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(Client CN "smtp.gmail.com", Issuer "Google Internet Authority" (not verified))
+	by yaaf.de (Postfix) with ESMTPS id 0C4A82D803BD
+	for <ldapuser@yaaf.no-ip.org>; Sun, 10 Feb 2013 00:01:53 +0100 (CET)
+Received: by mail-wi0-f181.google.com with SMTP id hm6so2026717wib.8
+        for <ldapuser@yaaf.no-ip.org>; Sat, 09 Feb 2013 15:01:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=x-received:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=pAYIwojcSsCmxqZ6Ao0fefsLQ2IhPen33/Mz1rKo47U=;
+        b=d7hhumQRHJ19xGKBN+QLQkV9M7UaBxhQR4OOgKAIRwo5K0fBUiS8P9cmFRNkY3W0J2
+         PMN44KaFWpyBDg4wKWLvAJT2Rxx6of01NHwtDUXPjH7p0pjlrxJSJWZZSn2oHKyA4BAm
+         1R7Z1bPfHVcHfVf6BO/7mRmAkGvU7Wm8yIZDbREQ10Aklz2qyo2Z70SQvKfLuG9Ds08S
+         w8P8FLpCXGzJacqtxQ4NL3QUCX0n8dhVFSoGDJ7BaFanN9/YNS34jjam/UxjPR6VJaj+
+         fEcNlwdbg3hLyLq4kOp22+utRsLms5gkPkLzMcp7jzeloZmfFx/Cm+FCCxUuxT7mwMEW
+         jh2A==
+X-Received: by 10.180.73.212 with SMTP id n20mr8427884wiv.11.1360436231363;
+ Sat, 09 Feb 2013 10:57:11 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.151.227 with HTTP; Sat, 9 Feb 2013 10:56:51 -0800 (PST)
+From: "Matthias D." <matthi.d@googlemail.com>
+Date: Sat, 9 Feb 2013 19:56:51 +0100
+Message-ID: <CA+vc01kQUrqyBnfb=H3JUedfQ=nyXxCAWj2SZ5D+jgKPDT+VMw@mail.gmail.com>
+Subject: test6
+To: ldapuser@yaaf.no-ip.org
+Content-Type: multipart/alternative; boundary=f46d0438ee614f5ca304d54f3e6d
+
+--f46d0438ee614f5ca304d54f3e6d
+Content-Type: text/plain; charset=ISO-8859-1
+
+test6
+
+--f46d0438ee614f5ca304d54f3e6d
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr">test6<br></div>
+
+--f46d0438ee614f5ca304d54f3e6d--

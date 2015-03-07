@@ -1,0 +1,43 @@
+Return-Path: <matthi.d@googlemail.com>
+X-Original-To: ldapuser@yaaf.no-ip.org
+Delivered-To: ldapuser@yaaf.no-ip.org
+Received: from mail-wi0-f173.google.com (mail-wi0-f173.google.com [209.85.212.173])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(Client CN "smtp.gmail.com", Issuer "Google Internet Authority" (not verified))
+	by yaaf.de (Postfix) with ESMTPS id 8609A2D803BD
+	for <ldapuser@yaaf.no-ip.org>; Sat,  9 Feb 2013 23:55:50 +0100 (CET)
+Received: by mail-wi0-f173.google.com with SMTP id hq4so2050778wib.12
+        for <ldapuser@yaaf.no-ip.org>; Sat, 09 Feb 2013 14:55:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=x-received:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=GQKUe2rOv37IFxvft4Fu9hw2MOTUjUyTErwMLAx7Hcg=;
+        b=lUSPlSWVOu8s7pjCR/K9UerH6Pp7HLdhiXZxWxml55Ips53+ksqR3suVGHXceoa4qA
+         4zu3mjChAADKp+WNwfnNIPY8kG8QhlGWi9WHIiVuPRlcOU72Y0lO7dgBelqyt/nL7rVx
+         5ftzLS7civbSHiPgRqpYp9hbKq3CopDb++ypl2o+QRK/wntvxQLDwJ5EZdzIXG7GNj70
+         ZJY2V1CxQnkLU1SPglJprZp4L+0HwLQAvLyIQlOljuZHJ1assUe+lDpz+rqyGCVeVviB
+         5OwqhCKCmyMGls9yZ/m/qRC3Cj4drXrBtkfjyCN7EqvaxDMP8nuVYpJ0EsKVlCBEcnL2
+         NVkw==
+X-Received: by 10.180.82.9 with SMTP id e9mr9010834wiy.1.1360450078707; Sat,
+ 09 Feb 2013 14:47:58 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.151.227 with HTTP; Sat, 9 Feb 2013 14:47:38 -0800 (PST)
+From: "Matthias D." <matthi.d@googlemail.com>
+Date: Sat, 9 Feb 2013 23:47:38 +0100
+Message-ID: <CA+vc01kLs3RPFC8oMb+8YKoXHsoZHNgT_4SLvM+qnXTbn8Ev0g@mail.gmail.com>
+Subject: hopefully the last :/
+To: ldapuser@yaaf.no-ip.org
+Content-Type: multipart/alternative; boundary=f46d04430476ad112a04d552770e
+
+--f46d04430476ad112a04d552770e
+Content-Type: text/plain; charset=ISO-8859-1
+
+hopefully the last :/
+
+--f46d04430476ad112a04d552770e
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr">hopefully the last :/<br></div>
+
+--f46d04430476ad112a04d552770e--

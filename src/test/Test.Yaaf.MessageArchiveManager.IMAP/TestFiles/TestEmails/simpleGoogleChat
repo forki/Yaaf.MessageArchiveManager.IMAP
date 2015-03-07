@@ -1,0 +1,22 @@
+Date: Sun, 6 Jan 2013 16:37:29 -0800 (PST)
+From: root <root@yaaf.no-ip.org>
+To:  <matthi.d@googlemail.com>
+Message-ID: <17638656.601295.1357519049616.chat@gmail.com>
+Subject: Chat with root
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_72_30087186.1360838961671"
+
+------=_Part_72_30087186.1360838961671
+Content-Type: text/xml; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<con:conversation xmlns:con="google:archive:conversation"><cli:message to="matthi.d@googlemail.com" from="root@yaaf.no-ip.org" int:log-source="2" xmlns:cli="jabber:client" xmlns:int="google:internal">
+<cli:body>lol</cli:body>
+<x stamp="20130107T00:37:29" xmlns="jabber:x:delay"/><time ms="1357519049615" xmlns="google:timestamp"/></cli:message></con:conversation>
+------=_Part_72_30087186.1360838961671
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div><span style=display:block;float:left;color:#888>1:37 AM&nbsp;</span><span style=display:block;padding-left:6em;text-indent:-1em><SPAN><SPAN style="font-weight:bold" dir="ltr">root</SPAN>: lol</SPAN></span></div>
+------=_Part_72_30087186.1360838961671--

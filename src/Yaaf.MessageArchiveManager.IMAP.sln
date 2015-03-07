@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{63297B98-5CED-492C-A5B7-A5B4F73CF142}"
+	ProjectSection(SolutionItems) = preProject
+		..\paket.dependencies = ..\paket.dependencies
+		..\paket.lock = ..\paket.lock
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project", "project", "{BF60BC93-E09B-4E5F-9D85-95A519479D54}"
+	ProjectSection(SolutionItems) = preProject
+		..\buildConfig.fsx = ..\buildConfig.fsx
+		..\CONTRIBUTING.md = ..\CONTRIBUTING.md
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{ED8079DD-2B06-4030-9F0F-DC548F98E1C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{1572AB1D-0D26-476E-AEE8-4D4D37CE8033}"
+	ProjectSection(SolutionItems) = preProject
+		..\doc\DevelopReadme.md = ..\doc\DevelopReadme.md
+		..\doc\ReleaseNotes.md = ..\doc\ReleaseNotes.md
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Yaaf.MessageArchiveManager.IMAP", "source\Yaaf.MessageArchiveManager.IMAP\Yaaf.MessageArchiveManager.IMAP.fsproj", "{2DAB550E-BDFA-4FDF-9E92-7F8CD06AF5B0}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Test.Yaaf.MessageArchiveManager.IMAP", "test\Test.Yaaf.MessageArchiveManager.IMAP\Test.Yaaf.MessageArchiveManager.IMAP.fsproj", "{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Net45 = Debug|Net45
+		Release|Net45 = Release|Net45
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAB550E-BDFA-4FDF-9E92-7F8CD06AF5B0}.Debug|Net45.ActiveCfg = Debug|Net45
+		{2DAB550E-BDFA-4FDF-9E92-7F8CD06AF5B0}.Debug|Net45.Build.0 = Debug|Net45
+		{2DAB550E-BDFA-4FDF-9E92-7F8CD06AF5B0}.Release|Net45.ActiveCfg = Release|Net45
+		{2DAB550E-BDFA-4FDF-9E92-7F8CD06AF5B0}.Release|Net45.Build.0 = Release|Net45
+		{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9}.Debug|Net45.ActiveCfg = Debug|Net45
+		{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9}.Debug|Net45.Build.0 = Debug|Net45
+		{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9}.Release|Net45.ActiveCfg = Release|Net45
+		{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9}.Release|Net45.Build.0 = Release|Net45
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F7B9703-A6A3-4005-A8D5-F011FCE9D1C9} = {ED8079DD-2B06-4030-9F0F-DC548F98E1C4}
+	EndGlobalSection
+EndGlobal

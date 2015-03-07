@@ -1,0 +1,574 @@
+Delivered-To: matthi.d@gmail.com
+Received: by 10.194.151.227 with SMTP id ut3csp63659wjb;
+        Wed, 6 Feb 2013 20:48:24 -0800 (PST)
+X-Received: by 10.204.150.140 with SMTP id y12mr8290448bkv.35.1360212504086;
+        Wed, 06 Feb 2013 20:48:24 -0800 (PST)
+Return-Path: <bsod@live.de>
+Received: from col0-omc1-s9.col0.hotmail.com (col0-omc1-s9.col0.hotmail.com. [65.55.34.19])
+        by mx.google.com with ESMTP id fv17si18917972bkc.251.2013.02.06.20.48.23;
+        Wed, 06 Feb 2013 20:48:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of bsod@live.de designates 65.55.34.19 as permitted sender) client-ip=65.55.34.19;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bsod@live.de designates 65.55.34.19 as permitted sender) smtp.mail=bsod@live.de;
+       dkim=neutral (body hash did not verify) header.i=@microsoft.discoverbing.com
+Received: from COL0-MC1-F30.Col0.hotmail.com ([65.55.34.8]) by col0-omc1-s9.col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 6 Feb 2013 20:47:51 -0800
+Resent-Message-ID: <COL0-MC1-F305888BD613DD27E6382B2D9060@phx.gbl>
+Resent-To: matthi.d@gmail.com
+Resent-Date: Wed, 6 Feb 2013 20:47:51 -0800
+Resent-From: bsod@live.de
+X-HM-Routing-Path:o6Y67jcUHOF4SxW3nJWAJyY3XF5TNq00qKMDGYV8v/Gyd5GGJrnftbcfP69m8MJu/BWW+7wzo8jDiJBipq8Ypv6P3LKVhNFljrxR4OruaTY6PagYqWqDTFZxQlcz/eqR6lxpISV8S50=
+Received: from smtpi.msn.com ([65.55.52.234]) by COL0-MC1-F30.Col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Wed, 6 Feb 2013 20:47:49 -0800
+DKIM-Signature: v=1; a=rsa-sha1; d=microsoft.discoverbing.com; s=ciprod; c=relaxed/relaxed; l=24617; i=@*.microsoft.discoverbing.com; t=1360212466; x=1391748466; q=dns/txt; h=Date:From:To:Message-ID:Subject; bh=Y/gwas68CSlgCdiSItM8g3UwtTg=; b=BpqIxRUTZXNS6ZHPklK9a4jQcxI+q6pIoVfFrCYp7LgXSA0Hcg/3CtZvBbtD+C8RbCrmM51hcBGEv8Jw1oXwFjzdF7WPO1jfcd8vbHpNdNKmDzswLVNPgvcP7TrlHmia4jWjO5UA/xt+sYj6Q+8KrdOLR/PcRpInSu3JbIUzR70=
+Date: Wed, 6 Feb 2013 20:47:46 -0800
+From: Das Windows Live Mesh-Team <skydrive@email.microsoft.com>
+To: <bsod@live.de>
+Message-ID: <em.7c371959.20130206152043.2.349.7375999.11269902@email.microsoft.com>
+Subject: Wichtig: Die Zukunft von Windows Live Mesh
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-----13cb2fb19cf_b7ce"
+X-Mailer: 7.2.2.0.0; msn
+Return-Path: skydrive@email.microsoft.com
+X-Message-Routing:
+ c/XoHtglriWnmES9luL8oHp85NU/8VYqg35aX23tCR9s0JFSa1bM2wuDcHsGnaBVo70Es7v5duHA26iCwF2IFDveVVkVxixljiOAWAzXsQ4nthZs=
+X-OriginalArrivalTime: 07 Feb 2013 04:47:49.0400 (UTC) FILETIME=[47D21180:01CE04EE]
+
+-------13cb2fb19cf_b7ce
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+**********************************************************************
+
+Die Zukunft von Windows Live Mesh
+
+**********************************************************************
+
+Sehr geehrter Mesh-Kunde,=20
+
+k=C3=BCrzlich wurde die neueste Version von [SkyDrive] ver=C3=B6ffentlicht,=
+=20
+die Ihnen folgende M=C3=B6glichkeiten bietet:=20
+http://email.microsoft.com/Key-11269902.D.CMBYy.C.Jy.FtrJYf
+
+Auswahl von Dateien und Ordnern Ihres SkyDrives zur Synchronisierung=20
+auf s=C3=A4mtlichen Computern=20
+Zugriff auf SkyDrive =C3=BCber eine brandneue App f=C3=BCr Android=C2=A0v2.=
+3 oder=20
+aktualisierte Apps f=C3=BCr Windows Phone, iPhone und iPad=20
+Onlinezusammenarbeit mit den neuen Office Web Apps, einschlie=C3=9Flich=20
+Excel-Formularen, gemeinsamem Erstellen von PowerPoint-Folien und=20
+einbettbaren Word-Dokumenten=20
+Derzeit nutzen 40=C2=A0% der Kunden von Mesh aktiv SkyDrive. Angesichts=20
+des positiven Feedbacks und unserem Schwerpunkt auf Verbesserungen=20
+von pers=C3=B6nlichen Cloud-Speichern ist es sinnvoll, SkyDrive und Mesh=20
+in einem einzigen Produkt zusammenzuf=C3=BChren, mit dem Sie jederzeit=20
+und =C3=BCberall auf Dateien zugreifen k=C3=B6nnen. Als Ergebnis dieser=20
+Entwicklung wird Mesh am 13. Februar 2013 eingestellt. Ab diesem=20
+Zeitpunkt stehen einige Mesh-Funktionen, z.=C2=A0B. Remotedesktop und=20
+Peer-to-Peer-Synchronisierung, nicht mehr zur Verf=C3=BCgung, und=20
+s=C3=A4mtliche Daten der Mesh-Cloud, als "Synchronisierter Mesh-Speicher"=
+=20
+bzw. "Synchronisierter SkyDrive-Speicher" bezeichnet, werden=20
+entfernt. Die Synchronisierung von mit Mesh synchronisierten Ordnern=20
+wird beendet, und Sie k=C3=B6nnen mit Mesh keine Remoteverbindung mehr=20
+mit Ihren PCs herstellen.=20
+
+[Wie w=C3=A4re es mit einem Test des neuen SkyDrive?]. =C3=9Cberzeugen Sie =
+sich=20
+selbst von den vielen n=C3=BCtzlichen Funktionen.
+http://email.microsoft.com/Key-11269902.D.CMBYy.D.Jy.FtrXT4
+
+In der =C3=9Cbergangszeit empfehlen wir, Mesh-Dateien neben Mesh=20
+zus=C3=A4tzlich auch =C3=BCber SkyDrive zu synchronisieren. Auf diese Weise=
+=20
+k=C3=B6nnen Sie SkyDrive testen, ohne die vorhandenen Mesh-Einstellungen=20
+zu =C3=A4ndern. Tipps f=C3=BCr den Wechsel zu SkyDrive finden Sie auf der=
+=20
+Windows-Website unter [SkyDrive f=C3=BCr Benutzer von Mesh].
+http://email.microsoft.com/Key-11269902.D.CMBYy.F.Jy.FtrqKK
+
+Wenn Sie Fragen haben, k=C3=B6nnen Sie diese in den [SkyDrive-Foren]=20
+stellen.=20
+http://email.microsoft.com/Key-11269902.D.CMBYy.G.Jy.FtsGDx
+
+Das Feedback der Mesh-Kunden war f=C3=BCr uns sehr hilfreich und ist=20
+in unsere Planung f=C3=BCr Mesh und SkyDrive eingeflossen. F=C3=BCr unsere=
+=20
+Arbeit war Ihre Unterst=C3=BCtzung von gro=C3=9Fer Bedeutung, und wir freue=
+n=20
+uns auf Ihr Feedback zu SkyDrive. =20
+=20
+Mit freundlichen Gr=C3=BC=C3=9Fen=20
+Das Windows Live Mesh- und das SkyDrive-Team=20
+=20
+H=C3=A4ufig gestellte Fragen =20
+=20
+Welche Gr=C3=BCnde waren ausschlaggebend? =20
+In den letzten Jahren wurden wir von Kunden wiederholt gebeten, viele=20
+der Vorteile von SkyDrive - z.=C2=A0B. mobiler Zugriff und=20
+Onlinezusammenarbeit - auch f=C3=BCr Windows Live Mesh verf=C3=BCgbar zu=20
+machen. Au=C3=9Ferdem haben wir Anfragen zu einigen Features von=20
+Mesh - z.=C2=A0B. Synchronisierung und Remotezugriff - f=C3=BCr SkyDrive=20
+erhalten. Durch die Zusammenf=C3=BChrung der wichtigsten Features beider=20
+Produkte in SkyDrive k=C3=B6nnen der Service f=C3=BCr dieses Produkt verbes=
+sert=20
+und s=C3=A4mtliche Vorteile allen Kunden zug=C3=A4nglich gemacht werden. Zu=
+dem=20
+k=C3=B6nnen wir in einem einzelnen Produkt in Zukunft mehr neue Features=20
+schneller einf=C3=BChren. =20
+=20
+Welche Features sind f=C3=BCr SkyDrive verf=C3=BCgbar? =20
+Synchronisieren des gesamten SkyDrives oder lediglich ausgew=C3=A4hlter=20
+Ordner mit dem Computer - Mit der SkyDrive-Desktop-App f=C3=BCr Windows=20
+oder Mac sind Ihre Dateien auf SkyDrive online und offline verf=C3=BCgbar,=
+=20
+und sie werden automatisch auf all Ihren Computern aktualisiert.=20
+Mehr Speicherplatz - Jeder SkyDrive-Kunde erh=C3=A4lt automatisch 7=C2=A0GB=
+=20
+kostenlosen SkyDrive-Speicher - 2=C2=A0GB mehr als bei Mesh. Sollten Sie=20
+mehr Speicherplatz ben=C3=B6tigen, k=C3=B6nnen Sie bis zu 100=C2=A0GB zus=
+=C3=A4tzlich=20
+erwerben. Melden Sie sich einfach bei SkyDrive.com an, und klicken=20
+Sie in der unteren linken Ecke auf "Speicher verwalten".=20
+Tolle Ansichten - SkyDrive verf=C3=BCgt =C3=BCber einige Features, die Sie=
+=20
+nicht von Mesh kennen. Beispielsweise k=C3=B6nnen Sie mit SkyDrive Dateien=
+=20
+ordnen, Dateiansichten =C3=A4ndern, Diashows anzeigen und Videos streamen.=
+=20
+=20
+=20
+Was passiert im Zeitraum bis zur Einstellung von Windows Live Mesh? =20
+Vorerst funktioniert Mesh weiterhin so, wie Sie es kennen. Wenn der=20
+Zeitpunkt der Einstellung von Mesh n=C3=A4her r=C3=BCckt, erhalten Sie von =
+uns=20
+Erinnerungs-E-Mails. =20
+=20
+Wo finde ich weitere Informationen? =20
+Weitere Informationen erhalten Sie unter=20
+[SkyDrive f=C3=BCr Benutzer von Mesh].
+http://email.microsoft.com/Key-11269902.D.CMBYy.H.Jy.FtsTxl
+
+Hier finden Sie Details =C3=BCber den Wechsel zu SkyDrive und aktuelle=20
+Informationen zu den =C3=84nderungen an Mesh. =20
+=20
+Kann ich =C3=BCber SkyDrive eine Remoteverbindung mit meinem PC herstellen=
+=20
+und auf diese Weise Apps ausf=C3=BChren? =20
+Nein, mit SkyDrive k=C3=B6nnen Sie Dateien von einem Remote-PC abrufen,=20
+jedoch keine Remoteverbindung herstellen, =C3=BCber die Sie den PC nutzen=
+=20
+k=C3=B6nnen, als seien Sie vor Ort. Wenn Sie eine Verbindung mit einem=20
+Arbeits-PC herstellen m=C3=B6chten, verwenden Sie=20
+die Remotedesktopverbindung in Windows. =C3=9Cber=20
+die Remotedesktopverbindung k=C3=B6nnen Sie eine Verbindung mit PCs=20
+herstellen, auf denen die folgenden Windows-Editionen ausgef=C3=BChrt=20
+werden:=20
+Windows 8 Pro, Windows 8 Enterprise=20
+Windows 7 Professional, Windows 7 Enterprise, Windows 7 Ultimate=20
+Windows Vista Business, Windows Vista Ultimate,=20
+Windows Vista Enterprise, Windows XP Professional=20
+=20
+=20
+F=C3=BCr eine Remoteverbindung mit einem Mac oder einem anderen=20
+Windows-Betriebssystem als den oben aufgef=C3=BChrten empfehlen wir das=20
+Erstellen eines [LogMeIn]-Kontos.
+http://email.microsoft.com/Key-11269902.D.CMBYy.J.Jy.Ftslm0
+
+Mit [LogMeIn Pro] k=C3=B6nnen Sie schnell und problemlos auf Ihren Ger=C3=
+=A4ten=20
+=C3=BCber das Internet in HD auf Computer zugreifen.
+http://email.microsoft.com/Key-11269902.D.CMBYy.K.Jy.FttChQ
+
+Auf diese Weise k=C3=B6nnen Sie von jedem Computer oder mobilen Ger=C3=A4t =
+aus=20
+Dateien =C3=BCbertragen, remote drucken oder Computer aktualisieren. =20
+
+**********************************************************************
+
+[Microsoft]
+http://email.microsoft.com/Key-11269902.D.CMBYy.L.Jy.FttRcF
+
+Microsoft respektiert Ihre Privatsph=C3=A4re. =20
+Lesen Sie online unsere [Datenschutzbestimmung], um mehr zu erfahren.
+http://email.microsoft.com/Key-11269902.D.CMBYy.M.Jy.Ftt46s
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052
+
+
+**********************************************************************
+
+.
+
+-------13cb2fb19cf_b7ce
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head> </head>
+<body>
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+  <tr>=20
+   =20
+    <td width=3D"600"><table width=3D"600" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+        <tr>
+          <td width=3D"600"><table width=3D"600" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" bgcolor=3D"#0072c6" align=3D"center">
+              <tr>
+                <td width=3D"24" style=3D"line-height:0px; font-size:0px;">=
+<img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/i=
+mages/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+                <td width=3D"552" height=3D"240" valign=3D"top"><table widt=
+h=3D"552" height=3D"240" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" a=
+lign=3D"center">
+                          <tr>
+                            <td width=3D"552" height=3D"240" valign=3D"cent=
+er" align=3D"left"><font face=3D"Segoe UI Light, Segoe WP Light, Segoe UI, =
+Helvetica, Arial" color=3D"#FFFFFF" style=3D"font-size:30px; line-height:1.=
+3em;">Die Zukunft von Windows Live Mesh</font></td>
+                          </tr>
+                  </table></td>
+                <td width=3D"24" style=3D"line-height:0px; font-size:0px;">=
+<img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/i=
+mages/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+ =20
+  <tr>
+    <td width=3D"600"><table width=3D"600" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center">
+        <tr>
+          <td width=3D"24" style=3D"line-height:0px; font-size:0px;"><img s=
+rc=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/images/=
+space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+          <td width=3D"552"><table width=3D"552" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+              <tr>
+                <td width=3D"552" height=3D"48" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+              <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> Sehr geehrter Mesh-Kunde, <br=
+><br> k&#252;rzlich wurde die neueste Version von <a href=3Dhttp://email.mi=
+crosoft.com/Key-11269902.D.CMBYy.N.Jy.Fttj2g >SkyDrive</a> ver&#246;ffentli=
+cht, die Ihnen folgende M&#246;glichkeiten bietet: <ul>
+                =09<li>Auswahl von Dateien und Ordnern Ihres SkyDrives zur =
+Synchronisierung auf s&#228;mtlichen Computern</li>
+                =09<li>Zugriff auf SkyDrive &#252;ber eine brandneue App f&=
+#252;r Android=C2=A0v2.3 oder aktualisierte Apps f&#252;r Windows Phone, iP=
+hone und iPad</li>
+                =09<li>Onlinezusammenarbeit mit den neuen Office Web Apps, =
+einschlie&#223;lich Excel-Formularen, gemeinsamem Erstellen von PowerPoint-=
+Folien und einbettbaren Word-Dokumenten</li>
+                </ul> Derzeit nutzen 40=C2=A0% der Kunden von Mesh aktiv Sk=
+yDrive. Angesichts des positiven Feedbacks und unserem Schwerpunkt auf Verb=
+esserungen von pers&#246;nlichen Cloud-Speichern ist es sinnvoll, SkyDrive =
+und Mesh in einem einzigen Produkt zusammenzuf&#252;hren, mit dem Sie jeder=
+zeit und &#252;berall auf Dateien zugreifen k&#246;nnen. <b>Als Ergebnis di=
+eser Entwicklung wird Mesh am 13. Februar 2013 eingestellt. Ab diesem Zeitp=
+unkt stehen einige Mesh-Funktionen, z.=C2=A0B. Remotedesktop und Peer-to-Pe=
+er-Synchronisierung, nicht mehr zur Verf&#252;gung, und s&#228;mtliche Date=
+n der Mesh-Cloud, als &bdquo;Synchronisierter Mesh-Speicher" bzw. &bdquo;Sy=
+nchronisierter SkyDrive-Speicher" bezeichnet, werden entfernt. Die Synchron=
+isierung von mit Mesh synchronisierten Ordnern wird beendet, und Sie k&#246=
+;nnen mit Mesh keine Remoteverbindung mehr mit Ihren PCs herstellen</b>. <b=
+r><br> <a href=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.P.Jy.FtvPT=
+W >Wie w&#228;re es mit einem Test des neuen SkyDrive</a>? &#220;berzeugen =
+Sie sich selbst von den vielen n&#252;tzlichen Funktionen. In der &#220;ber=
+gangszeit empfehlen wir, Mesh-Dateien neben Mesh zus&#228;tzlich auch &#252=
+;ber SkyDrive zu synchronisieren. Auf diese Weise k&#246;nnen Sie SkyDrive =
+testen, ohne die vorhandenen Mesh-Einstellungen zu &#228;ndern. Tipps f&#25=
+2;r den Wechsel zu SkyDrive finden Sie auf der Windows-Website unter <a hre=
+f=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.Q.Jy.Ftv2PL >SkyDrive f=
+&#252;r Benutzer von Mesh</a>. Wenn Sie Fragen haben, k&#246;nnen Sie diese=
+ in den <a href=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.R.Jy.Ftvg=
+Jy >SkyDrive-Foren</a> stellen. <br><br> Das Feedback der Mesh-Kunden war f=
+&#252;r uns sehr hilfreich und ist in unsere Planung f&#252;r Mesh und SkyD=
+rive eingeflossen. F&#252;r unsere Arbeit war Ihre Unterst&#252;tzung von g=
+ro&#223;er Bedeutung, und wir freuen uns auf Ihr Feedback zu SkyDrive. </fo=
+nt>
+                </td>
+              </tr>
+              <tr>
+                <td width=3D"552" height=3D"42" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+              <tr>
+                <td width=3D"552" align=3D"left"><font face=3D"Segoe UI, Ar=
+ial, Helvetica" color=3D"#0072c6" style=3D"font-size:16px; line-height:1.3e=
+m;">Mit freundlichen Gr&#252;&#223;en</font></td>
+              </tr>
+              <tr>
+                <td width=3D"552" align=3D"left"><font face=3D"Segoe UI, Ar=
+ial, Helvetica" color=3D"#0072c6" style=3D"font-size:16px; line-height:1.3e=
+m;">Das Windows Live Mesh- und das SkyDrive-Team</font></td>
+              </tr>
+              <tr>
+                <td width=3D"552" height=3D"42" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+
+              <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><u>H&#228;ufig gestellte Fr=
+agen</u></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><i>Welche Gr&#252;nde waren=
+ ausschlaggebend?</i></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> In den letzten Jahren wurden =
+wir von Kunden wiederholt gebeten, viele der Vorteile von SkyDrive &ndash; =
+z.=C2=A0B. mobiler Zugriff und Onlinezusammenarbeit &ndash; auch f&#252;r W=
+indows Live Mesh verf&#252;gbar zu machen. Au&#223;erdem haben wir Anfragen=
+ zu einigen Features von Mesh &ndash; z.=C2=A0B. Synchronisierung und Remot=
+ezugriff &ndash; f&#252;r SkyDrive erhalten. Durch die Zusammenf&#252;hrung=
+ der wichtigsten Features beider Produkte in SkyDrive k&#246;nnen der Servi=
+ce f&#252;r dieses Produkt verbessert und s&#228;mtliche Vorteile allen Kun=
+den zug&#228;nglich gemacht werden. Zudem k&#246;nnen wir in einem einzelne=
+n Produkt in Zukunft mehr neue Features schneller einf&#252;hren. </font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09   <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><i>Welche Features sind f&#=
+252;r SkyDrive verf&#252;gbar?</i></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><ul>
+                =09<li><b>Synchronisieren des gesamten SkyDrives oder ledig=
+lich ausgew&#228;hlter Ordner mit dem Computer</b> &ndash; Mit der SkyDrive=
+-Desktop-App f&#252;r Windows oder Mac sind Ihre Dateien auf SkyDrive onlin=
+e und offline verf&#252;gbar, und sie werden automatisch auf all Ihren Comp=
+utern aktualisiert.</li>
+                =09<li><b>Mehr Speicherplatz</b> &ndash; Jeder SkyDrive-Kun=
+de erh&#228;lt automatisch 7=C2=A0GB kostenlosen SkyDrive-Speicher &ndash; =
+2=C2=A0GB mehr als bei Mesh. Sollten Sie mehr Speicherplatz ben&#246;tigen,=
+ k&#246;nnen Sie bis zu 100=C2=A0GB zus&#228;tzlich erwerben. Melden Sie si=
+ch einfach bei SkyDrive.com an, und klicken Sie in der unteren linken Ecke =
+auf <b>Speicher verwalten</b>.</li>
+                =09<li><b>Tolle Ansichten</b> &ndash; SkyDrive verf&#252;gt=
+ &#252;ber einige Features, die Sie nicht von Mesh kennen. Beispielsweise k=
+&#246;nnen Sie mit SkyDrive Dateien ordnen, Dateiansichten &#228;ndern, Dia=
+shows anzeigen und Videos streamen.</li>
+                </ul></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+ =09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09   <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><i>Was passiert im Zeitraum=
+ bis zur Einstellung von Windows Live Mesh?</i></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> Vorerst funktioniert Mesh wei=
+terhin so, wie Sie es kennen. Wenn der Zeitpunkt der Einstellung von Mesh n=
+&#228;her r&#252;ckt, erhalten Sie von uns Erinnerungs-E-Mails. </font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09   <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><i>Wo finde ich weitere Inf=
+ormationen?</i></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> Weitere Informationen erhalte=
+n Sie unter <a href=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.S.Jy.=
+FtvwDm >SkyDrive f&#252;r Benutzer von Mesh</a>. Hier finden Sie Details &#=
+252;ber den Wechsel zu SkyDrive und aktuelle Informationen zu den &#196;nde=
+rungen an Mesh. </font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09   <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"><b><i>Kann ich &#252;ber SkyDr=
+ive eine Remoteverbindung mit meinem PC herstellen und auf diese Weise Apps=
+ ausf&#252;hren?</i></b></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> Nein, mit SkyDrive k&#246;nne=
+n Sie Dateien von einem Remote-PC abrufen, jedoch keine Remoteverbindung he=
+rstellen, &#252;ber die Sie den PC nutzen k&#246;nnen, als seien Sie vor Or=
+t. Wenn Sie eine Verbindung mit einem Arbeits-PC herstellen m&#246;chten, v=
+erwenden Sie die Remotedesktopverbindung in Windows. &#220;ber die Remotede=
+sktopverbindung k&#246;nnen Sie eine Verbindung mit PCs herstellen, auf den=
+en die folgenden Windows-Editionen ausgef&#252;hrt werden: <ul>
+               =09=09<li>Windows 8 Pro, Windows 8 Enterprise</li>
+               =09=09<li>Windows 7 Professional, Windows 7 Enterprise, Wind=
+ows 7 Ultimate</li>
+               =09=09<li>Windows Vista Business, Windows Vista Ultimate, Wi=
+ndows Vista Enterprise</li>
+               =09=09<li>Windows XP Professional</li>
+               =09</ul></font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+=09=09=09  <tr>
+                <td width=3D"552" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"15" border=3D"0"></td=
+>
+              </tr>
+=09=09=09   <tr>
+                <td width=3D"552" align=3D"left">
+                <font face=3D"Segoe UI, Arial, Helvetica" color=3D"#454545"=
+ style=3D"font-size:12px; line-height:18px;"> F&#252;r eine Remoteverbindun=
+g mit einem Mac oder einem anderen Windows-Betriebssystem als den oben aufg=
+ef&#252;hrten empfehlen wir das Erstellen eines <a href=3Dhttp://email.micr=
+osoft.com/Key-11269902.D.CMBYy.T.Jy.FtwLxb >LogMeIn</a>-Kontos. Mit <a href=
+=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.V.Jy.FtwcmR >LogMeIn Pro=
+</a> k&#246;nnen Sie schnell und problemlos auf Ihren Ger&#228;ten &#252;be=
+r das Internet in HD auf Computer zugreifen. Auf diese Weise k&#246;nnen Si=
+e von jedem Computer oder mobilen Ger&#228;t aus Dateien &#252;bertragen, r=
+emote drucken oder Computer aktualisieren. </font>
+=09=09=09=09</td>
+=09=09=09  </tr>
+
+              <tr>
+                <td width=3D"552" height=3D"50" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+            </table></td>
+          <td width=3D"24" style=3D"line-height:0px; font-size:0px;"><img s=
+rc=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/images/=
+space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+        </tr>
+      </table></td>
+  </tr>
+ =20
+  <tr>
+    <td width=3D"600"><table width=3D"600" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" bgcolor=3D"#838383" align=3D"center">
+        <tr>
+          <td width=3D"24" style=3D"line-height:0px; font-size:0px;"><img s=
+rc=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/images/=
+space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+          <td width=3D"561"><table width=3D"561" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+              <tr>
+                <td width=3D"561" height=3D"22" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+              <tr>
+                <td width=3D"561" align=3D"left">
+               =20
+               =20
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"w=
+idth: 568px; clear: both; font-size: 9px; font-family: Verdana; color: #fff=
+fff; padding: 10px 0px 24px 20px">
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"text-align: right;">
+<a target=3D"_blank" href=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy=
+.W.Jy.FtwshG ><img alt=3D"" border=3D"0" src=3D"http://ads1.msn.com/ads/pro=
+nws/CIQ/HMML/Windows/W8_microsoft_logo_white_tr.png"></a>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"text-align: left; padding: 15px 0px 0px 0px; fo=
+nt-size:10px;">
+=09=09=09=09=09Microsoft respektiert Ihre Privatsph&#228;re.  Lesen Sie onl=
+ine unsere <a href=3Dhttp://email.microsoft.com/Key-11269902.D.CMBYy.X.Jy.F=
+txJbt  style=3D"color: #ffffff;"target=3D"_blank">Datenschutzbestimmung</a>=
+, um mehr zu erfahren.</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"text-align: left; padding: 15px 0px 0px 0px; fo=
+nt-size:10px;">Microsoft Corporation<br> One Microsoft Way<br> Redmond WA 9=
+8052 </td>
+=09=09=09=09</tr>
+=09=09=09</table>
+
+               =20
+               =20
+                </td>
+              </tr>
+              <tr>
+                <td width=3D"561" height=3D"10" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+              <tr>
+                <td width=3D"561" height=3D"15" style=3D"line-height:0px; f=
+ont-size:0px;"><img src=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_=
+MeshDeComm_SN/images/space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+              </tr>
+            </table></td>
+          <td width=3D"15" style=3D"line-height:0px; font-size:0px;"><img s=
+rc=3D"http://ads1.msn.com/ads/pronws/CIQ/HMML/2012-11_MeshDeComm_SN/images/=
+space.gif" width=3D"1" height=3D"1" border=3D"0"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<BR>&nbsp;<BR><BR><img src=3D"http://email.microsoft.com/blankpixel.gif/Key=
+-11269902.D.CMBYy.z.Jy.nJbHJys"/><BR><BR><!-- Message-Id: &lt;em.7c371959.2=
+0130206152043.2.349.7375999.11269902@email.microsoft.com&gt; --><BR></body>
+</html>
+
+-------13cb2fb19cf_b7ce--
